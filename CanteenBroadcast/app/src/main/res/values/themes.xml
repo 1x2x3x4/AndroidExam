@@ -1,0 +1,12 @@
+<resources>
+    <style name="Base.Theme.CanteenBroadcast" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/canteen_primary</item>
+        <item name="colorPrimaryContainer">@color/canteen_button_bg</item>
+        <item name="android:statusBarColor">@color/canteen_page_bg</item>
+        <item name="android:navigationBarColor">@color/canteen_page_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/canteen_page_bg</item>
+    </style>
+
+    <style name="Theme.CanteenBroadcast" parent="Base.Theme.CanteenBroadcast" />
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">&#x9690;&#x5F0F;Intent</string>
+    <string name="main_title">&#x9690;&#x5F0F;&#x542F;&#x52A8;&#x548C;&#x53D1;&#x9001;&#x6570;&#x636E;</string>
+    <string name="button_open_web">&#x6D4F;&#x89C8;&#x7F51;&#x9875;</string>
+    <string name="button_send_data">&#x53D1;&#x9001;&#x6570;&#x636E;</string>
+    <string name="hint_url">&#x8BF7;&#x8F93;&#x5165;&#x7F51;&#x5740;</string>
+    <string name="hint_send_text">&#x8BF7;&#x8F93;&#x5165;&#x8981;&#x53D1;&#x9001;&#x7684;&#x5185;&#x5BB9;</string>
+    <string name="default_url">http://www.baidu.com</string>
+    <string name="default_send_text">12345678</string>
+    <string name="toast_url_required">&#x7F51;&#x5740;&#x4E0D;&#x80FD;&#x4E3A;&#x7A7A;</string>
+    <string name="toast_send_required">&#x53D1;&#x9001;&#x5185;&#x5BB9;&#x4E0D;&#x80FD;&#x4E3A;&#x7A7A;</string>
+    <string name="toast_browser_not_found">&#x672A;&#x627E;&#x5230;&#x53EF;&#x7528;&#x7684;&#x6D4F;&#x89C8;&#x5668;</string>
+    <string name="toast_share_not_found">&#x672A;&#x627E;&#x5230;&#x53EF;&#x7528;&#x7684;&#x5206;&#x4EAB;&#x5E94;&#x7528;</string>
+    <string name="chooser_send_title">&#x9009;&#x62E9;&#x53D1;&#x9001;&#x65B9;&#x5F0F;</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="page_background">#FFFFFFFF</color>
+    <color name="surface_white">#FFFFFFFF</color>
+    <color name="primary_blue">#FF3F51FF</color>
+    <color name="primary_blue_dark">#FF3042DD</color>
+    <color name="border_normal">#FFD0D0D0</color>
+    <color name="border_focus">#FF4B57FF</color>
+    <color name="text_primary">#FF333333</color>
+    <color name="text_secondary">#FF666666</color>
+    <color name="text_hint">#FF999999</color>
+    <color name="button_fill">#FFE6E6E6</color>
+    <color name="button_fill_pressed">#FFD8D8D8</color>
+    <color name="button_stroke">#FFBDBDBD</color>
+    <color name="button_text">#FF333333</color>
+</resources>

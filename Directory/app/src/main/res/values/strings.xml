@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">&#x7EFF;&#x8C46;&#x901A;&#x8BAF;&#x5F55;</string>
+    <string name="title_directory">&#x7EFF;&#x8C46;&#x901A;&#x8BAF;&#x5F55;</string>
+    <string name="subtitle_directory">SQLite &#x672C;&#x5730;&#x8054;&#x7CFB;&#x4EBA;&#x7BA1;&#x7406;</string>
+    <string name="label_name">&#x59D3;&#x540D;&#xFF1A;</string>
+    <string name="label_phone">&#x7535;&#x8BDD;&#xFF1A;</string>
+    <string name="hint_name">&#x8BF7;&#x8F93;&#x5165;&#x59D3;&#x540D;</string>
+    <string name="hint_phone">&#x8BF7;&#x8F93;&#x5165;&#x624B;&#x673A;&#x53F7;&#x7801;</string>
+    <string name="btn_add">&#x6DFB;&#x52A0;</string>
+    <string name="btn_query">&#x67E5;&#x8BE2;</string>
+    <string name="btn_update">&#x4FEE;&#x6539;</string>
+    <string name="btn_delete">&#x5220;&#x9664;</string>
+    <string name="result_title">&#x67E5;&#x8BE2;&#x7ED3;&#x679C;</string>
+    <string name="result_empty"></string>
+    <string name="toast_name_phone_empty">&#x59D3;&#x540D;&#x548C;&#x7535;&#x8BDD;&#x4E0D;&#x80FD;&#x4E3A;&#x7A7A;</string>
+    <string name="toast_contact_exists">&#x8BE5;&#x8054;&#x7CFB;&#x4EBA;&#x5DF2;&#x5B58;&#x5728;</string>
+    <string name="toast_add_success">&#x6DFB;&#x52A0;&#x6210;&#x529F;</string>
+    <string name="toast_add_failed">&#x6DFB;&#x52A0;&#x5931;&#x8D25;</string>
+    <string name="toast_no_contacts">&#x6682;&#x65E0;&#x8054;&#x7CFB;&#x4EBA;&#x4FE1;&#x606F;</string>
+    <string name="toast_contact_not_found">&#x672A;&#x67E5;&#x8BE2;&#x5230;&#x8BE5;&#x8054;&#x7CFB;&#x4EBA;</string>
+    <string name="toast_query_failed">&#x67E5;&#x8BE2;&#x5931;&#x8D25;</string>
+    <string name="toast_update_empty">&#x59D3;&#x540D;&#x548C;&#x65B0;&#x7535;&#x8BDD;&#x4E0D;&#x80FD;&#x4E3A;&#x7A7A;</string>
+    <string name="toast_update_success">&#x4FEE;&#x6539;&#x6210;&#x529F;</string>
+    <string name="toast_update_failed">&#x4FEE;&#x6539;&#x5931;&#x8D25;</string>
+    <string name="toast_name_empty">&#x59D3;&#x540D;&#x4E0D;&#x80FD;&#x4E3A;&#x7A7A;</string>
+    <string name="toast_delete_success">&#x5220;&#x9664;&#x6210;&#x529F;</string>
+    <string name="toast_delete_failed">&#x5220;&#x9664;&#x5931;&#x8D25;</string>
+    <string name="result_name_prefix">&#x59D3;&#x540D;&#xFF1A;</string>
+    <string name="result_phone_prefix">&#x7535;&#x8BDD;&#xFF1A;</string>
+</resources>

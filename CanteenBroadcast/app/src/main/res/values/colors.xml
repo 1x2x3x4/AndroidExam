@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="canteen_page_bg">#FFFDF7EE</color>
+    <color name="canteen_panel_bg">#FFFFFCF8</color>
+    <color name="canteen_title">#FF7D4F25</color>
+    <color name="canteen_subtitle">#FFA97A4B</color>
+    <color name="canteen_message">#FF5E3B1D</color>
+    <color name="canteen_hint">#FFFFFFFF</color>
+    <color name="canteen_border">#FFF2D8B5</color>
+    <color name="canteen_shadow">#14000000</color>
+    <color name="canteen_primary">#FFE4944E</color>
+    <color name="canteen_primary_dark">#FFC66C1E</color>
+    <color name="canteen_button_bg">#FFFFE8B8</color>
+    <color name="canteen_button_stroke">#FFF3C26B</color>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SuperMarketApp</string>
+    <string name="title_products">&#x8D85;&#x5E02;&#x5546;&#x54C1;&#x5217;&#x8868;</string>
+    <string name="hint_search">&#x641C;&#x7D22;&#x5546;&#x54C1;</string>
+    <string name="label_price">&#x4EF7;&#x683C;&#xFF1A;&#xFFE5;%.2f</string>
+    <string name="label_quantity">&#x6570;&#x91CF;</string>
+    <string name="quantity_format">%1$s&#xFF1A;%2$d</string>
+    <string name="action_add_to_cart">&#x52A0;&#x5165;&#x8D2D;&#x7269;&#x8F66;</string>
+    <string name="action_decrease">-</string>
+    <string name="action_increase">+</string>
+    <string name="cart_total_format">&#x8D2D;&#x7269;&#x8F66;&#x603B;&#x4EF7;&#xFF1A;&#xFFE5;%.2f</string>
+    <string name="cart_total_default">&#x8D2D;&#x7269;&#x8F66;&#x603B;&#x4EF7;&#xFF1A;&#xFFE5;0.00</string>
+    <string name="toast_select_quantity">&#x8BF7;&#x9009;&#x62E9;&#x5546;&#x54C1;&#x6570;&#x91CF;</string>
+    <string name="toast_added_to_cart">%1$s &#x5DF2;&#x52A0;&#x5165;&#x8D2D;&#x7269;&#x8F66;</string>
+    <string name="empty_search_result">&#x6CA1;&#x6709;&#x627E;&#x5230;&#x76F8;&#x5173;&#x5546;&#x54C1;</string>
+    <string name="content_product_image">%1$s&#x56FE;&#x7247;</string>
+    <string name="product_water">&#x767E;&#x5C81;&#x5C71;&#x77FF;&#x6CC9;&#x6C34;</string>
+    <string name="product_bread">&#x9762;&#x5305;</string>
+    <string name="product_milk">&#x6709;&#x673A;&#x7EAF;&#x725B;&#x5976;</string>
+    <string name="product_chips">&#x4E50;&#x4E8B;&#x85AF;&#x7247;</string>
+    <string name="product_coke">&#x53EF;&#x53E3;&#x53EF;&#x4E50;</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">广播实例</string>
+    <string name="screen_title">广播实例</string>
+    <string name="input_hint">广播内容</string>
+    <string name="btn_send">发送广播</string>
+    <string name="btn_show">查看广播的内容</string>
+    <string name="content_default">暂无广播内容</string>
+    <string name="content_empty">暂无内容，没有收到广播</string>
+    <string name="broadcast_sent">广播已发送</string>
+    <string name="input_empty">请输入广播内容</string>
+</resources>

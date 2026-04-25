@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">&#x996D;&#x5802;&#x5C0F;&#x5E7F;&#x64AD;</string>
+    <string name="title_canteen_broadcast">&#x996D;&#x5802;&#x5C0F;&#x5E7F;&#x64AD;</string>
+    <string name="subtitle_canteen_broadcast">&#x70B9;&#x51FB;&#x5587;&#x53ED;&#xFF0C;&#x53D1;&#x9001;&#x5F00;&#x996D;&#x901A;&#x77E5;</string>
+    <string name="message_default">&#x70B9;&#x51FB;&#x5587;&#x53ED;&#x901A;&#x77E5;&#x5927;&#x5BB6;&#x5F00;&#x996D;</string>
+    <string name="message_food_ready">&#x5F00;&#x996D;&#x5566;&#xFF01;</string>
+    <string name="broadcast_sent">&#x5E7F;&#x64AD;&#x5DF2;&#x53D1;&#x9001;</string>
+    <string name="horn_hint">&#x70B9;&#x6211;&#x53D1;&#x9001;&#x5E7F;&#x64AD;</string>
+    <string name="bottom_tip">&#x901A;&#x8FC7;&#x81EA;&#x5B9A;&#x4E49;&#x5E7F;&#x64AD;&#x63D0;&#x9192;&#x5927;&#x5BB6;&#x53CA;&#x65F6;&#x6765;&#x996D;&#x5802;&#x5403;&#x996D;</string>
+    <string name="rabbit_desc">&#x5C0F;&#x5154;&#x56FE;&#x7247;</string>
+    <string name="foods_desc">&#x98DF;&#x7269;&#x56FE;&#x7247;</string>
+    <string name="horn_desc">&#x5587;&#x53ED;&#x56FE;&#x7247;</string>
+</resources>

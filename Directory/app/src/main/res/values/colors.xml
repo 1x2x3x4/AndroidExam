@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="green_primary">#4CAF50</color>
+    <color name="green_primary_dark">#2E7D32</color>
+    <color name="green_primary_light">#A5D6A7</color>
+    <color name="white_92">#EBFFFFFF</color>
+    <color name="white_88">#E0FFFFFF</color>
+    <color name="white_72">#B8FFFFFF</color>
+    <color name="white_18">#2EFFFFFF</color>
+    <color name="white_12">#1FFFFFFF</color>
+    <color name="text_primary">#5A5774</color>
+    <color name="text_secondary">#6F6B87</color>
+    <color name="result_text">#5E5878</color>
+    <color name="hint_text">#8E8BA5</color>
+    <color name="line_color">#74708C</color>
+    <color name="button_purple">#6B10FF</color>
+    <color name="button_purple_dark">#4D00CC</color>
+    <color name="button_purple_light">#8C45FF</color>
+</resources>

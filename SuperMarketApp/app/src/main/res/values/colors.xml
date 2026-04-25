@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="screen_start">#FFF7FBFF</color>
+    <color name="screen_end">#FFEFF7F1</color>
+    <color name="card_background">#FFFDFEFF</color>
+    <color name="card_stroke">#FFD7E7DE</color>
+    <color name="search_background">#FFFFFFFF</color>
+    <color name="search_stroke">#FFC9D9D0</color>
+    <color name="primary_green">#FF2E7D5B</color>
+    <color name="primary_green_dark">#FF205843</color>
+    <color name="primary_green_light">#FFE8F5EE</color>
+    <color name="text_primary">#FF21313C</color>
+    <color name="text_secondary">#FF5C6B75</color>
+    <color name="text_hint">#FF91A0AA</color>
+    <color name="price_red">#FFE04A4A</color>
+    <color name="quantity_bg">#FFF3F8F5</color>
+    <color name="quantity_stroke">#FFD1E2D8</color>
+</resources>
